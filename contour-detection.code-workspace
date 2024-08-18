@@ -10,5 +10,9 @@
       "path": "web"
     }
   ],
-  "settings": {}
+  "settings": {
+    "files.associations": {
+      "*.css": "tailwindcss"
+    }
+  }
 }
